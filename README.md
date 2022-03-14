@@ -24,7 +24,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Face Retrieval Tool (FRT)
 
 Hello! This tool is for Machine Learning research. More generally, this tool
 allows for the automatic generation of random faces by scrapping [thispersondoesnotexist](https://this-person-does-not-exist.com/en).
