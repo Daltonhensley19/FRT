@@ -27,7 +27,7 @@
 ## Face Retrieval Tool (FRT)
 
 Hello! This tool is for Machine Learning research. More generally, this tool
-allows for the automatic generation of random faces by scrapping [thispersondoesnotexist](https://this-person-does-not-exist.com/en).
+allows for the automatic generation of random faces (of human and cat) by scrapping [thispersondoesnotexist](https://this-person-does-not-exist.com/en).
 
 Moreover, this project contains two special Python scripts to fufill this job:
 `image_compression.py` and `research_scrape.py`. The latter retrives the images,
@@ -67,6 +67,10 @@ Below are the required Python libs.
 * selenium
   ```sh
   pip install selenium
+  ```
+  * uuid
+  ```sh
+  pip install uuid
   ```
 ### Installation
 
