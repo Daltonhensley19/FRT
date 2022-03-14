@@ -68,7 +68,7 @@ Below are the required Python libs.
   ```sh
   pip install selenium
   ```
-  * uuid
+* uuid
   ```sh
   pip install uuid
   ```
