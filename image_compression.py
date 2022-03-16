@@ -30,13 +30,11 @@ def main():
 
 
     # Work inside the `face_images` directory
-    dir = Path("/home/dalton/desktop/face_research/face_images/" + args.type)
+    dir = Path("face_images/" + args.type)
 
     # Collect all images that are .jpg files
     img_list = dir.rglob("*.jpg")
 
-    # Switch working directory (maybe not needed?)
-    os.chdir("face_images/")
 
     # for each image in the collection of images
     for img in img_list:
